@@ -1,0 +1,1 @@
+C:\Users\Derike\Documents\NET_MAUI\AppDeContas\AppDeContas\AppDeContas.csproj;x64
